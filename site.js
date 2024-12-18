@@ -1,3 +1,4 @@
+
 /* SITE.JS: THIS FILE CONTAINS THE METHODS/FUNCTIONS AND VARIABLES CONTROLLING YOUR SITE
 //
 */
@@ -24,21 +25,37 @@
 const vue_app = Vue.createApp({
       // This automatically imports your movies.json file and puts it into
       //   the variable: movies
-      created () {
+      created() {
             fetch('movies.json').then(response => response.json()).then(json => {
                   this.movies = json
             })
       },
       data() {
-        return {
-            // This holds your movies.json data.
-            movies: [],
-            /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
-         
-      }
-    },
+            return {
+                  // This holds your movies.json data.
+                  movies: [],
+                  /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
+                  title: "Guzzone & IMDB's Top 8 Movies",
+                  owner: "Nick Guzzone",
+                  github: "https://github.com/Gazzy21/NJITProject2"
+            }
+      },
       methods: {
             /* ADD FUNCTIONS/METHODS FOR STEP 7 HERE */
+            getMonthText(dateArray) {
+                  const months = [
+                        "January", "February", "March", "April", "May", "June",
+                        "July", "August", "September", "October", "November", "December"
+                  ];
+                  const [year, month, day] = dateArray;
+                  const monthText = months[month - 1];
+                  return `${monthText} ${day}, ${year}`;
+            },
+            timeText(minutes) {
+                  const hours = Math.trunc(minutes / 60)
+                  const mins = minutes % 60
+                  return `${hours}h ${mins}m`
+            }
       }
 })
 
