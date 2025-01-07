@@ -4,13 +4,21 @@
             "iscore": 9.3,
             "rating": "R",
             "runtime": 142,
-            "released": [1994, 10, 14],
+            "released": [
+                  1994,
+                  10,
+                  14
+            ],
             "country": "USA",
-            "posters": ["img/shawshank.jpg", "img/shawshank2.jpg", "img/shawshank3.jpg"],
-            "imdb": "http://www.imdb.com/title/tt0111161",
-            "website": "https://www.facebook.com/ShawshankRedemptionFilm",
-            "likes": 1021,
-            "dislikes": 122,
+            "posters": [
+                  "img/shawshank.jpg",
+                  "img/shawshank2.jpg",
+                  "img/shawshank3.jpg"
+            ],
+            "imdb": "https://www.imdb.com/title/tt0111161/",
+            "website": "https://en.wikipedia.org/wiki/The_Shawshank_Redemption",
+            "likes": 821,
+            "dislikes": 351,
             "posterindex": 0
       },
       {
@@ -18,13 +26,21 @@
             "iscore": 9.2,
             "rating": "R",
             "runtime": 175,
-            "released": [1972, 3, 24],
+            "released": [
+                  1972,
+                  3,
+                  24
+            ],
             "country": "USA",
-            "posters": ["img/godfather.jpg", "img/godfather_2.jpg", "img/godfather_3.jpg"],
-            "imdb": "http://www.imdb.com/title/tt0068646",
-            "website": "https://www.facebook.com/thegodfather",
-            "likes": 928,
-            "dislikes": 109,
+            "posters": [
+                  "img/godfather.jpg",
+                  "img/godfather_2.jpg",
+                  "img/godfather_3.jpg"
+            ],
+            "imdb": "https://www.imdb.com/title/tt0068646/",
+            "website": "https://en.wikipedia.org/wiki/The_Godfather",
+            "likes": 712,
+            "dislikes": 272,
             "posterindex": 0
       },
       {
@@ -32,13 +48,20 @@
             "iscore": 8.5,
             "rating": "PG",
             "runtime": 116,
-            "released": [1974, 12, 20],
+            "released": [
+                  1974,
+                  12,
+                  20
+            ],
             "country": "USA",
-            "posters": ["img/backtothefuture.jpg", "img/backtothefuture_2.jpg"],
-            "imdb": "http://www.imdb.com/title/tt0071562",
-            "website": "https://www.facebook.com/thegodfather",
-            "likes": 855,
-            "dislikes": 99,
+            "posters": [
+                  "img/backtothefuture.jpg",
+                  "img/backtothefuture_2.jpg"
+            ],
+            "imdb": "https://www.imdb.com/title/tt0088763/",
+            "website": "https://en.wikipedia.org/wiki/Back_to_the_Future",
+            "likes": 954,
+            "dislikes": 189,
             "posterindex": 0
       },
       {
@@ -46,69 +69,105 @@
             "iscore": 8.9,
             "rating": "PG-13",
             "runtime": 152,
-            "released": [2008, 7, 18],
+            "released": [
+                  2008,
+                  7,
+                  18
+            ],
             "country": "USA",
-            "posters": ["img/darkknight.jpg", "img/darkknight2.jpg"],
-            "imdb": "http://www.imdb.com/title/tt0468569",
-            "website": "http://www.42entertainment.com/work/whysoserious",
-            "likes": 828,
-            "dislikes": 127,
+            "posters": [
+                  "img/darkknight.jpg",
+                  "img/darkknight2.jpg"
+            ],
+            "imdb": "https://www.imdb.com/title/tt0468569/",
+            "website": "https://en.wikipedia.org/wiki/The_Dark_Knight",
+            "likes": 920,
+            "dislikes": 164,
             "posterindex": 0
       },
       {
             "title": "The Truman Show",
-            "iscore": 8.9,
+            "iscore": 8.2,
             "rating": "PG",
             "runtime": 103,
-            "released": [1993, 11, 30],
+            "released": [
+                  1998,
+                  6,
+                  5
+            ],
             "country": "USA",
-            "posters": ["img/trumanshow.jpg", "img/trumanshow2.jpg"],
-            "imdb": "http://www.imdb.com/title/tt0108052",
-            "website": "https://www.uphe.com/schindlers-list",
-            "likes": 812,
-            "dislikes": 101,
+            "posters": [
+                  "img/trumanshow.jpg",
+                  "img/trumanshow2.jpg"
+            ],
+            "imdb": "https://www.imdb.com/title/tt0120382/",
+            "website": "https://en.wikipedia.org/wiki/The_Truman_Show",
+            "likes": 756,
+            "dislikes": 211,
             "posterindex": 0
       },
       {
             "title": "Avengers: Infinity War",
-            "iscore": 8.9,
+            "iscore": 8.4,
             "rating": "PG-13",
             "runtime": 149,
-            "released": [1993, 11, 30],
+            "released": [
+                  2018,
+                  4,
+                  27
+            ],
             "country": "USA",
-            "posters": ["img/infinityWar.jpg", "img/infinityWar2.jpg", "img/infinityWar3.jpg"],
-            "imdb": "http://www.imdb.com/title/tt0108052",
-            "website": "https://www.uphe.com/schindlers-list",
-            "likes": 812,
-            "dislikes": 101,
+            "posters": [
+                  "img/infinityWar.jpg",
+                  "img/infinityWar2.jpg",
+                  "img/infinityWar3.jpg"
+            ],
+            "imdb": "https://www.imdb.com/title/tt4154756/",
+            "website": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War",
+            "likes": 978,
+            "dislikes": 367,
             "posterindex": 0
       },
       {
             "title": "Gladiator",
-            "iscore": 8.9,
+            "iscore": 8.5,
             "rating": "R",
             "runtime": 155,
-            "released": [1993, 11, 30],
+            "released": [
+                  2000,
+                  5,
+                  5
+            ],
             "country": "USA",
-            "posters": ["img/gladiator.png", "img/gladiator2.jpg"],
-            "imdb": "https://www.imdb.com/title/tt0172495",
-            "website": "https://www.uphe.com/schindlers-list",
-            "likes": 812,
-            "dislikes": 101,
+            "posters": [
+                  "img/gladiator.png",
+                  "img/gladiator2.jpg"
+            ],
+            "imdb": "https://www.imdb.com/title/tt0172495/",
+            "website": "https://en.wikipedia.org/wiki/Gladiator_(2000_film)",
+            "likes": 648,
+            "dislikes": 309,
             "posterindex": 0
       },
       {
             "title": "Beverly Hills Cop",
-            "iscore": 8.9,
+            "iscore": 7.4,
             "rating": "R",
-            "runtime": 195,
-            "released": [1993, 11, 30],
+            "runtime": 105,
+            "released": [
+                  1984,
+                  12,
+                  5
+            ],
             "country": "USA",
-            "posters": ["img/BeverlyHillsCop.jpg", "img/BeverlyHillsCop2.jpg"],
-            "imdb": "http://www.imdb.com/title/tt0108052",
-            "website": "https://www.uphe.com/schindlers-list",
-            "likes": 812,
-            "dislikes": 101,
+            "posters": [
+                  "img/BeverlyHillsCop.jpg",
+                  "img/BeverlyHillsCop2.jpg"
+            ],
+            "imdb": "https://www.imdb.com/title/tt0086960/",
+            "website": "https://en.wikipedia.org/wiki/Beverly_Hills_Cop",
+            "likes": 533,
+            "dislikes": 431,
             "posterindex": 0
       }
 ]
